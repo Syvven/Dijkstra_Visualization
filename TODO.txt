@@ -1,0 +1,12 @@
+// TODO: 
+    -> Implement Min-Priority-Queue
+        -> Figure out how to actually implement
+        -> Array or Nodes?
+        -> Do I care minimizing runtime as much as possible?
+    -> Implement Dijkstra Algorithm
+        -> Use Min-Priority-Queue
+    -> Implement Visualization of the Process
+        -> Turtle? PyGame?
+        -> Make Visualization of graph
+        -> Update Visualization as the algorithm progresses
+
