@@ -4,4 +4,5 @@
 # Node Class is used to implement the graph as an adjaceny list
 
 class Node:
-    
+    def __init__(self):
+        self.next = None
